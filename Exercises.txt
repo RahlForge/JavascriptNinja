@@ -1,0 +1,7 @@
+2.5 Exercises
+1. Page building & event handling
+2. You can assign many event listeners, but you can only assign the handler property once
+3. 1
+4. FIFO (First-in, first-out)
+4/4
+
